@@ -1,0 +1,9 @@
+.top {
+    background-image: url(../img/casey-horner-0D8_tYHIy0o-unsplash.jpg);
+    background-position: 50% 62%;
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    padding: 120px 0;
+}
+
